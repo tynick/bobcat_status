@@ -1,7 +1,7 @@
 {
   "status": "Synced",
-  "gap": "-1",
-  "miner_height": "1076873",
-  "blockchain_height": "1076872",
+  "gap": "0",
+  "miner_height": "1076877",
+  "blockchain_height": "1076877",
   "epoch": "28100"
 }
