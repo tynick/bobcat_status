@@ -1,7 +1,1 @@
-{
-  "status": "Down",
-  "gap": "-",
-  "miner_height": "-",
-  "blockchain_height": "-",
-  "epoch": "-"
-}
+{"message":"rate limit exceeded"}
